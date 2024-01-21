@@ -7,7 +7,7 @@ h3,
 h4,
 h5,
 h6 {
-  @apply font-manrope;
+  @apply font-primary;
 }
 h1 {
   @apply text-3xl md:text-5xl lg:text-7xl font-extrabold text-black leading-[50px] md:leading-[80px] lg:leading-[100px];
@@ -22,10 +22,10 @@ h4 {
   @apply text-base font-bold text-black leading-7;
 }
 p {
-  @apply font-poppins;
+  @apply font-secondary text-gray font-medium text-lg leading-7;
 }
 .btn {
-  @apply py-[18px] px-5 text-white text-xl font-bold capitalize rounded-xl bg-gradient-to-r from-btn-start to-btn-end;
+  @apply flex justify-center items-center gap-4 py-[18px] px-5 text-white font-secondary text-xl font-bold capitalize rounded-xl bg-gradient-to-r from-btn-start to-btn-end;
 }
 .section {
   @apply py-[60px] md:py-[130px];

@@ -24,8 +24,11 @@ module.exports = {
         'btn-end': '#FF8938 '
       },
       fontFamily:{
-        primary: 'Poppins',
-        secondary: 'Manrope'
+        primary: 'Manrope',
+        secondary: 'Poppins',
+      },
+      boxShadow:{
+        ratings: '0px 7px 50px 0px rgba(0, 0, 0, 0.06)'
       }
     },
   },
