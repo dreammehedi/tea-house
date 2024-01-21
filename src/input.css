@@ -27,3 +27,6 @@ p {
 .btn {
   @apply py-[18px] px-5 text-white text-xl font-bold capitalize rounded-xl bg-gradient-to-r from-btn-start to-btn-end;
 }
+.section {
+  @apply py-[60px] md:py-[130px];
+}
