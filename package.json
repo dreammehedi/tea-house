@@ -1,0 +1,15 @@
+{
+  "name": "tea-house",
+  "version": "1.0.0",
+  "description": "This is my tea house website.",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./src/input.css -o ./style.css -w"
+  },
+  "keywords": [],
+  "author": "Mehedi Hassan Miraj",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
