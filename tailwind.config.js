@@ -39,6 +39,7 @@ module.exports = {
         'feature-product': 'linear-gradient(180deg, #F4F4F4 0%, rgba(244, 244, 244, 0.00) 100%)',
         'great-tea-1': 'linear-gradient(90deg, #e1b96f94 50%, rgba(255, 255, 255, 0.00) 100%)',
         'great-tea-4': 'linear-gradient(90deg, #D9D9D9 0%, rgba(255, 255, 255, 0.00) 100%)',
+        'super-client': 'linear-gradient(270deg, #F00 0%, #FF8938 100%)'
       },
     },
   },
