@@ -25,7 +25,7 @@ p {
   @apply font-secondary text-gray font-medium text-lg leading-7;
 }
 .btn {
-  @apply flex justify-center items-center gap-4 py-[18px] px-5 text-white font-secondary text-xl font-bold capitalize rounded-xl bg-gradient-to-r from-btn-start to-btn-end;
+  @apply flex justify-center items-center gap-4 py-[18px] px-5 bg-btn-bg text-white font-secondary text-xl font-bold capitalize rounded-xl transition-all duration-500 ease-in;
 }
 .section {
   @apply py-[60px] md:py-[100px];
